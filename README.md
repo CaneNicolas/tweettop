@@ -100,7 +100,7 @@ user.get_user_timeline("2244994945", results: "5", format: "json")
       }
     }, ...
 ```
-You know know that this last tweet is a response to another tweet,
+You know now that this last tweet is a response to another tweet,
 and you know that tweet ID.
 
 Therefore you can get that single tweet:
